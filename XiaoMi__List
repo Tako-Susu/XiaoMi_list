@@ -1,0 +1,22 @@
+# ==========================================
+# 米家智能家居 + 石头科技 直连 (DIRECT)
+# 适用: Clash / Mihomo classical 规则集, Surge RULE-SET
+# ==========================================
+
+# --- 米家 / 小米核心 ---
+DOMAIN-SUFFIX,mijia.com
+DOMAIN-SUFFIX,mijia.cn
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,xiaomi.net
+DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,miui.cn
+DOMAIN-SUFFIX,miwifi.com
+DOMAIN-SUFFIX,mijia.tech
+DOMAIN-SUFFIX,miot-spec.org
+DOMAIN-SUFFIX,mi-img.com
+DOMAIN-SUFFIX,mifile.cn
+
+# --- 石头科技 Roborock ---
+DOMAIN-SUFFIX,roborock.com
+DOMAIN-SUFFIX,rockrobo.com
